@@ -1,3 +1,10 @@
+/*
+  streams/remove_pattern.c 
+  by Daniel Morales Miguel
+  https://github.com/danalex93/streams/
+  GNU General Public License v3.0
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>

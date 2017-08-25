@@ -1,7 +1,7 @@
 /*
   streams/hex_to_bin.c 
   by Daniel Morales Miguel
-  https://github.com/danalex93/dd/
+  https://github.com/danalex93/streams/
   GNU General Public License v3.0
 */
 
