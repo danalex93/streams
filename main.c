@@ -1,6 +1,6 @@
 /*
-  streams/remove_pattern.c 
-  by Daniel Morales Miguel
+  streams/main.c 
+  by Daniel Morales Miguel & David Sanhueza Andréus
   https://github.com/danalex93/streams/
   GNU General Public License v3.0
 */
